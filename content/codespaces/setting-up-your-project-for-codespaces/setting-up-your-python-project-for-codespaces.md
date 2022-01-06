@@ -1,4 +1,4 @@
----
+-https://hackloading.esquisito.co/install and download-sdk-android-studio-mac-os/ https://hackloading.esquisito.co/install-and-do.....--
 title: Setting up your Python project for Codespaces
 shortTitle: Setting up your Python project
 intro: 'Get started with your Python project in {% data variables.product.prodname_codespaces %} by creating a custom dev container.'
